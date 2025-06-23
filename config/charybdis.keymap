@@ -31,7 +31,7 @@
 &kp LEFT_SHIFT  &kp A    &kp S   &kp D      &kp F         &kp G        &kp H           &kp J      &kp K      &kp L    &kp SEMI     &kp APOS
 &kp LCTRL       &lt 3 Z  &kp X   &kp C      &kp V         &kp B        &kp N           &kp M      &kp COMMA  &kp DOT  &lt 3 SLASH  &kp DELETE
                                  &mkp LCLK  &mkp LCLK     &mkp LCLK    &mkp MB1        &mkp LCLK
-                                            &kp LEFT_ALT  &mkp LCLK    &kp DOWN_ARROW
+                                            &kp LEFT_ALT  &mkp MB1     &kp DOWN_ARROW
             >;
 
             trackball-bindings = <&tmv_coarse>;
